@@ -20,6 +20,6 @@ name = input('Введите свое имя: ')
 
 age = int(input('Укажите свой возраст: '))
 
-print('Вас звоут %s, мне %s' % (name, age))
+print('Вас звоут %s, вам %s' % (name, age))
 
 print('-' * 15)
